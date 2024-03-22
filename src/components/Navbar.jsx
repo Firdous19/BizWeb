@@ -3,6 +3,11 @@ import { NavLink } from "react-router-dom";
 function NavElement({ to, children }) {
   return (
     <NavLink
+      className={({ isActive }) =>
+        `${
+          isActive ? "border-b-2 border-gray-600 text-black" : "text-gray-500"
+        }`
+      }
       to={to}
     >
       {children}
