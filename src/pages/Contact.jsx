@@ -20,7 +20,7 @@ function Contact() {
   }
 
   return (
-    <div className="w-[500px] py-6 px-3 mx-auto mt-10 shadow-xl rounded-lg">
+    <div className="sm:w-[500px] w-[85%] p-3 mx-auto mt-10 shadow-xl rounded-lg">
       <h1 className="text-3xl mb-3 text-center">Contact Us</h1>
       <form
         method="POST"
