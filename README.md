@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bizweb is my  built using React Router, designed to provide users with a seamless experience while navigating through various business-related pages. Whether you're looking for information on products, services, or company details, Bizweb ensures easy access to all the necessary resources.
+Bizweb is a simple web App built using React Router, designed to provide users with a seamless experience while navigating through various business-related pages. Whether you're looking for information on products, services, or company details, Bizweb ensures easy access to all the necessary resources.
 
 ## Features
 
